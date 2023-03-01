@@ -9,7 +9,7 @@ body{
       color: #263547;
       position: relative;
       left: 370px;
-      top: -230px;
+      top: -270px;
    }
 .titulodos{        
    font-family:'Rowdies';
@@ -17,7 +17,7 @@ body{
    color: #263547;
    position: relative;
    left: 600px;
-   top: -280px;
+   top: -320px;
 }
 .fotoperfil{   
    position: relative;
@@ -29,7 +29,7 @@ body{
 }   
 .lineab{
    background-color: #e8f1f8;
-   height: 40vh;
+   height: 35vh;
    width: -400vh;
    position: relative;
    left: 0px;
@@ -41,16 +41,16 @@ body{
    width: 400px;
    float: left;
    text-align: center;
-               
+
 } 
 .texto{
    color: rgb(36, 87, 70);
-   font-size: 27px; 
+   font-size: 40px; 
    
    position: relative;
-   left: 50px;
+   left: 40px;
    top: 30px;
-
 }
+
 
 
