@@ -1,23 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
 body{
    background: white;
    margin: 0%;    
 }
    .titulo{
-     font-family:'Rowdies';
-      font-size: 80px;
+     font-family:'Tilt Warp';
+      font-size: 70px;
       color: #263547;
+      width: 1045px;
+      height: 85px;
+      margin-top: 18px;
+      margin-bottom: 12px;
       position: relative;
       left: 370px;
-      top: -270px;
+      top: -200px;
    }
 .titulodos{        
-   font-family:'Rowdies';
-   font-size: 50px;
+   font-family:'Tilt Warp';
+   font-size: 35px;
    color: #263547;
    position: relative;
-   left: 600px;
-   top: -320px;
+   left: 370px;
+   top: -210px;
 }
 .fotoperfil{   
    position: relative;
@@ -28,29 +32,56 @@ body{
       
 }   
 .lineab{
-   background-color: #e8f1f8;
-   height: 35vh;
-   width: -400vh;
+   background-color: #d0e3f1;
+   width: 1430px;
+   height: 301px;
    position: relative;
    left: 0px;
    top: 0px;    
 } 
 .lineab2{
-   background-color: #e8f1f8;
-   height: 300vh;
+ 
+   background-color: #4f739e;
+   height: 700px;
    width: 400px;
    float: left;
    text-align: center;
 
 } 
 .texto{
-   color: rgb(36, 87, 70);
+   color: #263547;
+   font-family:'Tilt Warp';
    font-size: 40px; 
-   
+   width: 1370px;
    position: relative;
    left: 40px;
    top: 30px;
 }
+.texto2{
+   color: #263547;
+   font-family:'Tilt Warp';
+   font-size: 30px; 
+   width: 1370px;
+   position: relative;
+   left: 60px;
+   top: 30px;
+}
+.parrafo{
+   color: #263547;
+   
+   font-size: 20px; 
+   width: 1370px;
+   position: relative;
+   left: 60px;
+   top: 30px;
+}
 
-
+.texto3{
+   color:  #e8f1f8;
+   font-family:'Tilt Warp';
+}
+.parrafo3{
+   color:  #e8f1f8;
+   font-size: 20px;
+}
 
