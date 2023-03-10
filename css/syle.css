@@ -28,7 +28,7 @@ body{
    left: 60px;
    top: 26px;
    width: 260px;
-   height: 260px;
+   height: 300px;
       
 }   
 .lineab{
@@ -42,7 +42,7 @@ body{
 .lineab2{
  
    background-color: #4f739e;
-   height: 700px;
+   height: 800px;
    width: 400px;
    float: left;
    text-align: center;
