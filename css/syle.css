@@ -13,15 +13,18 @@ body{
       margin-bottom: 12px;
       position: relative;
       left: 370px;
-      top: -200px;
+      top: -250px;
    }
 .titulodos{        
    font-family:'Tilt Warp';
+   width: 1045px;
+   right: -300;
+   right: 200px;
    font-size: 35px;
    color: #263547;
    position: relative;
    left: 370px;
-   top: -210px;
+   top: -240px;
 }
 .fotoperfil{   
    position: relative;
@@ -29,23 +32,29 @@ body{
    top: 26px;
    width: 260px;
    height: 300px;
+   border-radius: 30px;
       
 }   
 .lineab{
    background-color: #d0e3f1;
    width: 1430px;
-   height: 301px;
+   height: 331px;
    position: relative;
    left: 0px;
-   top: 0px;    
+   top: 0px; 
+   border-top-right-radius: 2em 10%;
+   border-bottom-right-radius: 2em 10%;
 } 
 .lineab2{
  
    background-color: #4f739e;
-   height: 800px;
+   height: 773px;
    width: 400px;
    float: left;
    text-align: center;
+   border-bottom: 20px;
+   border-bottom-right-radius: 2em 10%;
+
 
 } 
 .texto{
@@ -55,7 +64,8 @@ body{
    width: 1370px;
    position: relative;
    left: 40px;
-   top: 30px;
+   top: 5px;
+   margin-top: 0px;
 }
 .texto2{
    color: #263547;
@@ -64,7 +74,8 @@ body{
    width: 1370px;
    position: relative;
    left: 60px;
-   top: 30px;
+   top: 2px;
+   margin-top: 25px;
 }
 .parrafo{
    color: #263547;
@@ -73,7 +84,9 @@ body{
    width: 1370px;
    position: relative;
    left: 60px;
-   top: 30px;
+   top: 2px;
+   margin-bottom: 0px;
+   margin-top: 0px;
 }
 
 .texto3{
