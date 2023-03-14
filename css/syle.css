@@ -4,7 +4,6 @@ body {
    background: white;
    margin: 0%;
 }
-
 .titulo {
    font-family: 'Tilt Warp';
    font-size: 70px;
@@ -17,7 +16,6 @@ body {
    left: 370px;
    top: -250px;
 }
-
 .titulodos {
    font-family: 'Tilt Warp';
    width: 1045px;
@@ -29,7 +27,6 @@ body {
    left: 370px;
    top: -240px;
 }
-
 .fotoperfil {
    position: relative;
    left: 60px;
@@ -37,9 +34,7 @@ body {
    width: 260px;
    height: 300px;
    border-radius: 30px;
-
 }
-
 .lineab {
    background-color: #d0e3f1;
    width: 1430px;
@@ -50,9 +45,7 @@ body {
    border-top-right-radius: 2em 10%;
    border-bottom-right-radius: 2em 10%;
 }
-
 .lineab2 {
-
    background-color: #4f739e;
    height: 1300px;
    width: 400px;
@@ -60,10 +53,7 @@ body {
    text-align: center;
    border-bottom: 20px;
    border-bottom-right-radius: 2em 10%;
-
-
 }
-
 .texto {
    color: #263547;
    font-family: 'Tilt Warp';
@@ -74,7 +64,6 @@ body {
    top: 5px;
    margin-top: 0px;
 }
-
 .texto2 {
    color: #263547;
    font-family: 'Tilt Warp';
@@ -85,10 +74,8 @@ body {
    top: 2px;
    margin-top: 25px;
 }
-
 .parrafo {
    color: #263547;
-
    font-size: 20px;
    width: 1370px;
    position: relative;
@@ -97,12 +84,10 @@ body {
    margin-bottom: 0px;
    margin-top: 0px;
 }
-
 .texto3 {
    color: #e8f1f8;
    font-family: 'Tilt Warp';
 }
-
 .parrafo3 {
    color: #e8f1f8;
    font-size: 20px;
